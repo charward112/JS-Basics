@@ -64,12 +64,12 @@ console.log(welcome());//Code Here
 
 //////////////////PROBLEM 6////////////////////
 
-
-
 //Create a function called myName that returns your name
 
-  //Code Here
-
+function myName() {
+    return "Casey";
+}
+console.log(myName());  //Code Here
 
 
 //Now save the function definition of myName into a new variable called newMyName
