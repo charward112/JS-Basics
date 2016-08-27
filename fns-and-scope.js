@@ -74,10 +74,11 @@ console.log(myName());  //Code Here
 
 //Now save the function definition of myName into a new variable called newMyName
 
-  //Code Here
+var newMyName = myName; //Code Here
 
 //Now alert the result of invoking newMyName
 
+alert(newMyName());
 
 
 //////////////////PROBLEM 7////////////////////
