@@ -55,12 +55,11 @@ console.log(welcome());//Code Here
 
 //////////////////PROBLEM 5////////////////////
 
-
-
 //What are all the falsy values in JavaScript and how do you check if something is falsy?
 
-  //Answer Here
-
+// 0, "", null, NAN, undefined, false
+// test a parameter against itself(falsey values) using the === or !== in an if statement.
+//Answer Here
 
 
 //////////////////PROBLEM 6////////////////////
