@@ -48,12 +48,9 @@ console.log(welcome());//Code Here
 
 //////////////////PROBLEM 4////////////////////
 
-
-
-
 //What is the difference between arguments and parameters?
 
-  //Answer Here
+//parameters are the definition for the function whereas the argument is what calls the function method.  //Answer Here
 
 
 //////////////////PROBLEM 5////////////////////
@@ -61,7 +58,6 @@ console.log(welcome());//Code Here
 
 
 //What are all the falsy values in JavaScript and how do you check if something is falsy?
-
 
   //Answer Here
 
